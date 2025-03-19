@@ -19,7 +19,7 @@ npm install
 3. **Create .env file**
 Create a `.env` file in the root directory with the following content:
 ```env
-DATABASE_URL="postgresql://postgres:psyduck@localhost:1222/habitvision?schema=public"
+DATABASE_URL=""
 JWT_SECRET="your-super-secret-key-change-this-in-production"
 ```
 
