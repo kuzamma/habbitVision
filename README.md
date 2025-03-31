@@ -20,7 +20,7 @@ npm install
 Create a `.env` file in the root directory with the following content:
 ```env
 DATABASE_URL=""
-JWT_SECRET="your-super-secret-key-change-this-in-production"
+JWT_SECRET="ur-super-secret-key-change-this-in-production"
 ```
 
 4. **Initialize the database**
